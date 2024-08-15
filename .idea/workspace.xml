@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e318a6a-4ea9-41a6-8210-8fa790ff2630" name="Changes" comment="Commit and Push">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4e318a6a-4ea9-41a6-8210-8fa790ff2630" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/src/Welcom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NamNguyenHub"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NamNguyenHub/Lab1.git",
+    "accountId": "750dd223-93dc-418e-8b6c-8937394c8a20"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -73,7 +84,7 @@
       <workItem from="1723724556284" duration="170000" />
       <workItem from="1723724750839" duration="66000" />
       <workItem from="1723724840235" duration="2300000" />
-      <workItem from="1723728170798" duration="401000" />
+      <workItem from="1723728170798" duration="563000" />
     </task>
     <task id="LOCAL-00001" summary="Commit and Push">
       <option name="closed" value="true" />
@@ -91,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723728528240</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1723728611751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723728611751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit and Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit and Push" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

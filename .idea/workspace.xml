@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e318a6a-4ea9-41a6-8210-8fa790ff2630" name="Changes" comment="Commit and Push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Welcom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
       <workItem from="1723724556284" duration="170000" />
       <workItem from="1723724750839" duration="66000" />
       <workItem from="1723724840235" duration="2300000" />
-      <workItem from="1723728170798" duration="280000" />
+      <workItem from="1723728170798" duration="401000" />
     </task>
     <task id="LOCAL-00001" summary="Commit and Push">
       <option name="closed" value="true" />
@@ -82,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723728207876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit and Push">
+      <option name="closed" value="true" />
+      <created>1723728528240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723728528240</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit and Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit and Push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
